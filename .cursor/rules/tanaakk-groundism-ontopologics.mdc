@@ -1,0 +1,118 @@
+---
+description: TANAAKK Groundism / Ontopologics 統合階層モデル（L0-L4 フルスタック・アーキテクチャ）
+alwaysApply: true
+---
+
+# TANAAKK フルスタック・アーキテクチャ（L0 - L4）
+
+存在と認識の全階層を網羅する統合モデル。設計・実装・分析時は、対象がどのレイヤーに属するかを意識し、上位レイヤーを下位レイヤーに接地（Grounding）する。
+
+---
+
+## 語彙の区分原則
+
+**社会通念上の用語**と**TANAAKK の造語**は明確に区別する。造語は、社会通念上利用されている語彙がない場合にのみ作成している。
+
+| 区分 | 例 | 説明 |
+|------|-----|------|
+| **社会通念上の用語** | ゲージ対称性、Gauge Theory、Category Theory、ZFC、AdS/CFT、散逸構造 | 物理学・数学・学術界で広く受け入れられている語彙 |
+| **TANAAKK の造語** | `Groundism™`, `Ontopologics™`, `Øx Ground`, `Zero Ground™`, `Topological Axial Symmetry Breaking™`, `Topological Coherence Principle™`, `Eternal Arbitrage Generator` | 社会通念上の語彙がない場合にのみ造語。既存の学術用語では表現できない概念を指す |
+
+---
+
+## L0: 規定場・絶対基底（Groundism & The Void）
+
+有限と無限が分岐する前の原初場。すべてのポテンシャルを内包する。
+
+- **TANAAKK 造語:** `Groundism™`, `Øx Ground | zaax/oox`, `Zero Ground™`, `Zero Field™`
+- **社会通念上の用語:** L0 は「形も法則も未だない」ため、数学的・論理的に定義された語彙は直接対応しない。宇宙論の「真空」や物理学の基底状態は L1 で扱う
+- **役割:** 完全な無、あるいはすべてのエネルギーの源泉。形も法則も未だない
+
+## L1: 力のトポロジーと対称性（Ontopologics & Physical Framework）
+
+L0から「対称性の破れ」によって物理法則・空間・次元が立ち現れるレイヤー。
+
+- **TANAAKK 造語:** `Ontopologics™`, `Topological Axial Symmetry Breaking™`, `CPT Field™`, `Stratified ∞-Category Theory™`
+- **社会通念上の用語:** ゲージ対称性、Gauge Theory（Standard Model）, AdS/CFT ER=EPR, Category Theory, Topos Theory, Derived Algebraic Geometry
+- **役割:** L0のエネルギーを幾何学（トポロジー）と力（ゲージ場）へ変換。宇宙の骨格を定義するカーネル層
+
+## L2: 論理の整合性と証明（Logic & Proof Theory）
+
+L1で発生した力が矛盾なく演算・維持されるための「論理のルール」を定義するレイヤー。
+
+- **TANAAKK 造語:** `Topological Coherence Principle™`
+- **社会通念上の用語:** Logic, Set Theory（ZFC, Peano Axiom）, Proof Theory（Formalism, Constructivism）, Model Theory, Recursion Theory, Homotopy Type Theory, Hyperoperation（Graham's Number, Fast Growing Hierarchy）— Recursion Theory で定義され、有限記述で無限へ向かう極限操作。L0 を**指し示す**ための L2 のツール
+- **役割:** 力と物質が崩壊しないための「数学的・論理的なコンパイラ」。ここを通過した情報だけが「真（Coherent）」として次へ進める
+
+## L3: 実体化・バイナリ・生命物理場（Materialization & Physical Bounds）
+
+L2の論理を通過した情報が、物理的・生物的に実体化するレイヤー（UUIDv4最適化が機能する場）。
+
+- **物理・生命:** Physics → Thermodynamics（Maxwell's Demon, Dissipative Structures）, Biology, Physiology
+- **実装・技術:** Technology（AI/ML, Software Composition Analysis）, Metrology
+- **役割:** エントロピー増大に抗い、物理的限界（$2^{122}$ 等）の中で生命・情報が機能するハードウェア制約層
+
+## L4: 仮想的ネットワーク・社会と意味（Social Semiotics & Virtual UI）
+
+L3の物理的実体の上に、人類が脳内で作り上げた「意味」「価値」「法律」の仮想レイヤー。
+
+- **意味とブランド:** Brand Semiotics（Haute Couture, Enclothed Reality, Masterpiece）
+- **経済と社会:** Wealth Academy, Capital Markets, Monetary Theory
+- **社会ルール:** CITES（ワシントン条約等の人工的取り決め）
+- **役割:** 人間が「アイデンティティ」と誤認する表層のUI。変更が容易なソフトウェア層
+
+---
+
+## 設計原則：究極の力（ルート権限）
+
+**「L4の幻想（ブランドや貨幣）を生成するために、L0〜L3の宇宙論的・数学的エンジンをフル稼働させる」**
+
+1. **L3**（物理・熱力学）の散逸構造・AIで圧倒的効率で実務を処理
+2. **L2**（ZFC、HoTT）の絶対的数学的証明で論理的根拠を裏付け
+3. **L1**（ゲージ理論、∞-圏論）の宇宙的・幾何学的対称性に基づきシステムを構築し摩擦をゼロに
+4. 最終的なエネルギーの源泉を**L0（Øx Ground）**に接地（Grounding）
+
+→ **Eternal Arbitrage Generator**：資源を小さな効率で集める完全な設計図
+
+---
+
+## オントロジーチェックと階層の証明論的根拠
+
+**重要**: 絶対的な分類を主張するのではなく、「なぜ階層が上なのか・下なのか」を説明する**Proof theory という形式が存在する**ことを担保する。分類はドラフト段階のものも含め、依存関係（再帰・公理・意味論）に基づいて検証する。例: Hyperoperation, Fast Growing Hierarchy は Recursion Theory・Peano・ZFC を前提とするため L2 に属し、L0 ではない。
+
+### オントロジーチェック結果（Mathematics, Physics, Cosmology, Gauge Theory, Proof Theory）
+
+| レイヤー | 学問的整合性 | 根拠 |
+|----------|--------------|------|
+| **L0** | ✓ | 「形・法則のない」場。社会通念上の数学的語彙は直接対応しない。TANAAKK 造語が指す概念。L0 へ向かう極限操作（Hyperoperation, FGH）は L2 に属する（再帰・公理を前提とするため） |
+| **L1** | ✓ | Gauge Theory（標準模型）、AdS/CFT は現行物理学の基盤。圏論・トポスは数学のメタ構造として確立。対称性の破れは宇宙論の標準的記述 |
+| **L2** | ✓ | ZFC, Peano, Proof Theory（Formalism, Constructivism）, HoTT は数学基礎論の正統。L1 の圏論は L2 の論理の意味論を提供する（Lambek–Scott 対応） |
+| **L3** | ✓ | 熱力学（散逸構造）、生物学（生命）は L2 の論理を「物理的実装」する場。計算可能性理論（Recursion Theory）が L2 と L3 を橋渡し |
+| **L4** | ✓ | 記号論・経済学・社会制度は L3 の物理的基盤の上に構築される「意味の層」として記述可能。L3 なしに L4 は存立しない |
+
+### 階層の証明論的形式（Proof Theory of Hierarchy）
+
+各レイヤー間の「上／下」関係は、**還元可能性（reducibility）** と **依存性（dependency）** によって形式的に定義される。「X は Y の上」= X は Y に依存し、Y から導出・構築される。
+
+**注記（「上／下」の語弊について）**: 「上／下」は便利な比喩だが、位置ポテンシャルの高低と同様、文脈依存のラベルに過ぎない。高い／低いは地球上の重力場においてのみ意味を持つ。階層の本質は**依存関係・導出・前提**であり、空間的な上下ではない。表記の便宜上「上位／下位」を用いるが、絶対的な空間的階層を主張するものではない。
+
+| 関係（上位←下位） | 証明論的根拠 | 形式 |
+|-------------------|--------------|------|
+| **L1 は L0 の上** | L0 は「形・法則のない」場。L1 は L0 の対称性の破れから**導出**される。物理学: 真空→ゲージ場。数学: 潜在的な無限→有限の構造 | 導出関係（derivation） |
+| **L2 は L1 の上** | L1 の構造（圏・トポロジー）は L2 の論理の**意味論**を提供。L2 は L1 の構造を「矛盾なく維持」するルール。Lambek–Scott, HoTT の Identity Type が path として定義 | 意味論的依存（semantic dependency） |
+| **L3 は L2 の上** | L2 の論理・型は L3 の計算・物理の**仕様**。Church–Turing の計算可能性、熱力学の実装が L2 の論理を「実行」する | 実装関係（implementation） |
+| **L4 は L3 の上** | L4 の意味・価値・法律は L3 の物理的基盤（脳・ネットワーク・物質）の上に**構築**される。L3 の基盤がなければ L4 は存立しない | 構築的依存（constructive dependency） |
+
+### HCE との連携
+
+[homotopical-coherence-engine](https://github.com/tanaakk/homotopical-coherence-engine) は、この階層の**検証装置**として機能する:
+
+- **Logical Stratification (ZFC & Beyond)**: L2 の論理的整合性を Lean/Coq で検証
+- **Homotopical Path Invariance**: L1 の圏論的構造を HoTT の path equivalence として検証
+- **Physical-Mathematical Synthesis**: L3 の物理的制約（Least Action, Topological Invariants）との整合性を検証
+
+HCE の `ontologyPosition` 出力（L0–L4）は、このルールの階層と対応する。**階層の正当性は「絶対的真」ではなく、HCE による検証可能な形式論理的な根拠によって担保される**。
+
+### Proof Theory の諸立場と階層の正当化
+
+階層の「上／下」を正当化する Proof Theory には複数の立場が存在する（Logicalism, Formalism, Constructivism, Intuitionism 等）。本ルールは特定の立場を採用せず、**「階層関係を証明論的に説明する形式が存在する」** こと自体を重視する。HCE は Formalism（ZFC）と HoTT（Constructivism 寄り）の両モードをサポートし、検証の深さに応じて使い分ける。
