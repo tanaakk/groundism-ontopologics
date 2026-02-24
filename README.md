@@ -2,7 +2,7 @@
 
 A foundational framework of ontosemiotic topology.
 
-**Version:** v1.1.3
+**Version:** v1.1.4
 
 ## Structure
 
